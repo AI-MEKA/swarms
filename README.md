@@ -1,24 +1,24 @@
 <div align="center">
-  <a href="https://mechaai.xyz">
+  <a href="https://Mekaai.xyz">
 <img src="https://pictr.com/images/2025/01/08/x1dCZ1.jpg" alt="x1dCZ1.jpg" border="0" />
   </a>
 </div>
 
 
-Mecha ai is a swarms-powered agent designed to optimize your DeFi experience. It leverages advanced machine learning algorithms to:
+Meka ai is a swarms-powered agent designed to optimize your DeFi experience. It leverages advanced machine learning algorithms to:
 
 - Maximize Earnings:
-    - Automated Yield Farming: Mecha ai seamlessly identifies and executes the most profitable yield farming strategies across various DeFi protocols (e.g., lending, staking, liquidity pools).
+    - Automated Yield Farming: Meka ai seamlessly identifies and executes the most profitable yield farming strategies across various DeFi protocols (e.g., lending, staking, liquidity pools).
     - Dynamic Portfolio Rebalancing: Continuously adjusts your asset allocation based on market trends, risk tolerance, and profit potential.
     - Flash Loan Arbitrage: Captures fleeting market inefficiencies through intelligent flash loan utilization, maximizing returns while minimizing risk.
 - MEV Protection:
-    - Transaction Prefunding: Mecha ai proactively funds transactions to miners, ensuring priority placement and minimizing the impact of front-running or back-running attacks.
+    - Transaction Prefunding: Meka ai proactively funds transactions to miners, ensuring priority placement and minimizing the impact of front-running or back-running attacks.
     - Private Transactions: Leverages privacy-preserving technologies to obscure transaction details from miners, reducing the window for MEV exploitation.
     - Decentralized Sequencing: Participates in decentralized transaction ordering systems to promote fair and equitable transaction execution.
 - Portfolio Management:
-    - Risk Assessment: Mecha ai continuously monitors market volatility and assesses potential risks associated with your portfolio.
-    - Stop-Loss Mechanisms: Implements automated stop-loss orders to protect your capital from significant price declines.
-    - Tax Optimization: Mecha ai provides insights and recommendations for tax-efficient portfolio management strategies.
+    - Risk Assessment: Meka ai continuously monitors market volatility and assesses potential risks associated with your portfolio.
+    - Stop-Loss Mekanisms: Implements automated stop-loss orders to protect your capital from significant price declines.
+    - Tax Optimization: Meka ai provides insights and recommendations for tax-efficient portfolio management strategies.
 
 Key Features:
 
@@ -91,7 +91,7 @@ Refer to our documentation for production grade implementation details.
 |----------------------|--------------------------------------------------------------------------------------------|
 | Installation    | [Installation](https://docs.swarms.world/en/latest/swarms/install/install/)                                                            |
 | Quickstart | [Get Started](https://docs.swarms.world/en/latest/swarms/install/quickstart/)                                                 |
-| Agent Internal Mechanisms | [Agent Architecture](https://docs.swarms.world/en/latest/swarms/framework/agents_explained/)                                                 |
+| Agent Internal Mekanisms | [Agent Architecture](https://docs.swarms.world/en/latest/swarms/framework/agents_explained/)                                                 |
 | Agent API | [Agent API](https://docs.swarms.world/en/latest/swarms/structs/agent/)                                                 |
 | Integrating External Agents Griptape, Autogen, etc | [Integrating External APIs](https://docs.swarms.world/en/latest/swarms/agents/external_party_agents/)                                                 |
 | Creating Agents from YAML | [Creating Agents from YAML](https://docs.swarms.world/en/latest/swarms/agents/create_agents_yaml/)                                                 |
