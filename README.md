@@ -5,7 +5,7 @@
 </div>
 
 
-Meka ai is a swarms-powered agent designed to optimize your DeFi experience. It leverages advanced machine learning algorithms to:
+Meka AI is a swarms-powered agent designed to optimize your DeFi experience. It leverages advanced machine learning algorithms to:
 
 - Maximize Earnings:
     - Automated Yield Farming: Meka ai seamlessly identifies and executes the most profitable yield farming strategies across various DeFi protocols (e.g., lending, staking, liquidity pools).
@@ -35,9 +35,9 @@ Key Features:
     </a>
 </p>
 <p align="center">
-<a href="https://twitter.com/swarms_corp/">🐦 Twitter</a>
+<a href="https://x.com/Meka_Corps">🐦 Twitter</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://discord.gg/agora-999382051935506503">📢 Discord</a>
+<a href="https://mekaai.xyz">📢 Website</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://swarms.world">Swarms Platform</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
