@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://mechaai.xyz">
-<img src="https://pictr.com/images/2025/01/06/x1pbYP.jpg" alt="x1pbYP.jpg" border="0" />
+<img src="https://pictr.com/images/2025/01/08/x1dCZ1.jpg" alt="x1dCZ1.jpg" border="0" />
   </a>
 </div>
 
